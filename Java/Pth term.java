@@ -1,4 +1,4 @@
-import java.util.*;git 
+import java.util.*;
 
 public class Pth term {
     public static void main(String[] args){
